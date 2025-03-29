@@ -1,0 +1,14 @@
+name: widget-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipywidgets>=7.6.0,<8.0.0
+  - widgetsnbextension>=3.5.0,<4.0.0
+  - matplotlib
+  - numpy
+  - librosa
+  - ipython
+  - pip
+  - pip:
+    - nbinteract

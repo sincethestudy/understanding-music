@@ -1,0 +1,8 @@
+numpy
+ipywidgets>=7.6.0,<8.0.0
+jupyter_widgets>=1.0.0
+widgetsnbextension>=3.5.0,<4.0.0
+nbinteract
+matplotlib
+librosa
+ipython
